@@ -1,6 +1,9 @@
 <master>
 開発開始
 
+<master>
+基本設定変更
+
 <develop1>
 開発工程A
 start
