@@ -1,6 +1,9 @@
 <master>
 開発開始
 
+<master>
+基本設定変更
+
 <develop2>
 工程B
 start
