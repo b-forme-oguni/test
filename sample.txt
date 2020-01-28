@@ -11,3 +11,11 @@ start
 <develop1>
 開発工程A
 end
+
+<develop2>
+工程B
+start
+
+<develop2>
+工程B
+end
