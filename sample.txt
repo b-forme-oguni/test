@@ -3,11 +3,3 @@
 
 <master>
 基本設定変更
-
-<develop1>
-開発工程A
-start
-
-<develop2>
-工程B
-start
