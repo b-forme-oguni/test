@@ -1,2 +1,6 @@
 <master>
 開発開始
+
+<develop2>
+工程B
+start
