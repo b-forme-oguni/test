@@ -3,3 +3,6 @@
 
 <master>
 基本設定変更
+
+<master>
+基本設定VerUP
