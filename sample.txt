@@ -41,3 +41,9 @@ end
 
 <remote1>
 UserBが編集
+
+<remote2>
+UserCが編集
+
+<remote3>
+UserDが編集
