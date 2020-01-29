@@ -19,3 +19,11 @@ start
 <develop2>
 工程B
 end
+
+<develop1>
+開発工程C
+start
+
+<develop1>
+開発工程C
+end
